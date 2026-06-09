@@ -28,7 +28,7 @@ A [Tampermonkey](https://www.tampermonkey.net/) userscript that adds a **voice�
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension (Chrome, Edge, Firefox, etc.).
 2. Click to install the script:
 
-   **➡️ [Install voice-message.user.js](https://raw.githubusercontent.com/vic10us/discord-voice-message/master/voice-message.user.js)**
+   **➡️ [Install voice-message.user.js](https://raw.githubusercontent.com/vic10us/discord-voice-message/main/voice-message.user.js)**
 
    Tampermonkey will open an install page — click **Install**.
 3. Open or reload [Discord Web](https://discord.com/app). A microphone button appears in the chat toolbar next to the emoji/GIF buttons.
