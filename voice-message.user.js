@@ -11,8 +11,8 @@
 // @homepageURL     https://github.com/vic10us/discord-voice-message
 // @supportURL      https://github.com/vic10us/discord-voice-message/issues
 // @icon            https://vic10us.github.io/discord-voice-message/images/icon128.png
-// @downloadURL     https://raw.githubusercontent.com/vic10us/discord-voice-message/master/voice-message.user.js
-// @updateURL       https://raw.githubusercontent.com/vic10us/discord-voice-message/master/voice-message.user.js
+// @downloadURL     https://raw.githubusercontent.com/vic10us/discord-voice-message/main/voice-message.user.js
+// @updateURL       https://raw.githubusercontent.com/vic10us/discord-voice-message/main/voice-message.user.js
 // @contributionURL https://www.buymeacoffee.com/vitim
 // @grant           none
 // @attribution     Original project (https://github.com/vic10us/discord-voice-message)
