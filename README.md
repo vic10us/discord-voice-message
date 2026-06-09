@@ -5,7 +5,6 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/releases)
 [![GitHub License](https://img.shields.io/github/license/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/blob/master/LICENSE)
 [![CodeFactor](https://www.codefactor.io/repository/github/vic10us/discord-voice-message/badge?style=flat-square)](https://www.codefactor.io/repository/github/vic10us/discord-voice-message?style=flat-square)
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/vic10us/discord-voice-message?style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/network/members)
 [![GitHub Discussions](https://img.shields.io/github/discussions/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/discussions)
