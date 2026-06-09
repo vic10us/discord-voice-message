@@ -1,5 +1,19 @@
 # Voice Message (Discord Web)
 
+<!-- shields -->
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/vic10us/discord-voice-message?color=%235865f2&display_name=tag&label=discord-voice-message&style=flat-square)][greasyfork_url]
+[![GitHub Release Date](https://img.shields.io/github/release-date/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/releases)
+[![GitHub License](https://img.shields.io/github/license/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/blob/master/LICENSE)
+[![CodeFactor](https://www.codefactor.io/repository/github/vic10us/discord-voice-message/badge?style=flat-square)](https://www.codefactor.io/repository/github/vic10us/discord-voice-message?style=flat-square)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/vic10us/discord-voice-message?style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/network/members)
+[![GitHub Discussions](https://img.shields.io/github/discussions/vic10us/discord-voice-message?style=flat-square)](https://github.com/vic10us/discord-voice-message/discussions)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/vic10us/discord-voice-message?style=flat-square&color=green)](https://github.com/vic10us/discord-voice-message/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/vic10us/discord-voice-message?style=flat-square&color=green)](https://github.com/vic10us/discord-voice-message/issues?q=is%3Aissue+is%3Aclosed)
+<!-- end shields -->
+
+
 A [Tampermonkey](https://www.tampermonkey.net/) userscript that adds a **voice‑message recorder** to Discord's web client. Click to record, click to send — voice messages that play correctly on both desktop **and** mobile.
 
 > Discord's web client has no built‑in voice‑message button. This script adds one to the chat toolbar, records Opus audio, repackages it into the Ogg container Discord's mobile player requires, and uploads it through Discord's official voice‑message flow.
@@ -119,7 +133,7 @@ This script reads and uses your own Discord account token to call Discord's API 
   [opera_violentmonkey]: https://addons.opera.com/extensions/details/violent-monkey/
 
 <!-- Download links -->
-  [greasyfork_url]: <https://greasyfork.org/en/scripts/581949-voice-message-discord-web> "Get Undiscord from GreasyFork"
-  [openuserjs_url]: <https://greasyfork.org/en/scripts/581949-voice-message-discord-web> "Get Undiscord from OpenUserJS"
+  [greasyfork_url]: <https://greasyfork.org/en/scripts/581949-voice-message-discord-web> "Get discord-voice-message from GreasyFork"
+  [openuserjs_url]: <https://greasyfork.org/en/scripts/581949-voice-message-discord-web> "Get discord-voice-message from OpenUserJS"
 
   [brave_browser]: https://brave.com/download/
